@@ -1,0 +1,1 @@
+const List<String> postes = ['1er', '2ème', '3ème'];
